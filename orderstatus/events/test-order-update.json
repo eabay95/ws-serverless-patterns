@@ -1,0 +1,8 @@
+[
+    {
+        "EventBusName": "Orders-dev",
+        "Source": "restaurant",
+        "DetailType": "order.updated",
+        "Detail": "{\"data\": { \"userId\": \"b9f9b9ee-c0e1-7075-5533-9311edb94dfe\",\"orderTime\":\"2023-04-05T21:11:21.300436\",\"totalAmount\":\"12.99\",\"restaurantId\":\"1\", \"orderId\": \"O2\", \"orderItems\": { \"id\": \"17\",\"name\": \"chicken sandwich\", \"price\": \"12.99\", \"quantity\": \"1\"},\"status\":\"IN-PROCESS\"}}"
+    }
+]
